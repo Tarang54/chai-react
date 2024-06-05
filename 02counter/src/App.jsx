@@ -1,3 +1,5 @@
+//A simple app to add counter and remove too with 0 as lower limit
+
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
