@@ -8,7 +8,6 @@ function Layout() {
   return (
     <>
         <Header />
-        //outlet allows you to change only its content
         <Outlet/>
         <Footer />
     </>
